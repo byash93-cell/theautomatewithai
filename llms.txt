@@ -14,3 +14,5 @@
 - [Best free AI tools for Instagram automation](https://byash93-cell.github.io/theautomatewithai/best-free-ai-tools-for-instagram-automation/): verified free plans
 - [ChatGPT Chrome tab feature for Instagram creators](https://byash93-cell.github.io/theautomatewithai/chatgpt-chrome-extension-read-tabs-instagram/): what the Oct 2026 update does and creator use cases
 - [Free local ElevenLabs alternative for reel voiceovers](https://byash93-cell.github.io/theautomatewithai/free-local-elevenlabs-alternative-reel-voiceovers/): VoiceStudio features, hardware, voice-rights rules
+- [Run AI on your own device](https://byash93-cell.github.io/theautomatewithai/run-ai-on-your-own-device-muse-spark-open/): Muse Spark Open facts and hardware, Ollama, local options
+- [Free ChatGPT for meeting notes and captions](https://byash93-cell.github.io/theautomatewithai/free-chatgpt-meeting-notes-task-table-captions/): copy-paste prompts for task tables, replies, captions
