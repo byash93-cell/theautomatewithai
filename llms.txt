@@ -18,6 +18,7 @@
 - [Free ChatGPT for meeting notes and captions](https://byash93-cell.github.io/theautomatewithai/free-chatgpt-meeting-notes-task-table-captions/): copy-paste prompts for task tables, replies, captions
 - [Notification-banner reel hook](https://byash93-cell.github.io/theautomatewithai/notification-hook-reel-capcut-canva/): free CapCut + Canva workflow, real-results-only rules
 - [Automate Instagram posting for free](https://byash93-cell.github.io/theautomatewithai/automate-instagram-posting-free-meta-business-suite/): schedule reels with Meta Business Suite or the Instagram app, verified scheduling windows
+- [Free ChatGPT prompts for reel scripts and hooks](https://byash93-cell.github.io/theautomatewithai/free-chatgpt-prompts-instagram-reel-scripts-hooks/): 5 copy-paste prompts for hooks, 25-second scripts, shot lists, loop endings and script checks
 
 ## Free resources
 - [Free sample PDF: 3 AI Automations That Run Your Instagram](https://automateai70.gumroad.com/l/vtnjv): 5 pages from the full guide (batch ideas and scripts, repurpose one video into five posts, auto-answer repeat DMs)
