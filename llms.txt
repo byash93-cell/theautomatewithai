@@ -19,5 +19,5 @@
 - [Notification-banner reel hook](https://byash93-cell.github.io/theautomatewithai/notification-hook-reel-capcut-canva/): free CapCut + Canva workflow, real-results-only rules
 
 ## Free resources
-- [Free sample PDF: 3 AI Automations That Run Your Instagram](https://byash93-cell.github.io/theautomatewithai/free/Free-3-AI-Automations.pdf): 5 pages from the full guide (batch ideas and scripts, repurpose one video into five posts, auto-answer repeat DMs)
+- [Free sample PDF: 3 AI Automations That Run Your Instagram](https://automateai70.gumroad.com/l/vtnjv): 5 pages from the full guide (batch ideas and scripts, repurpose one video into five posts, auto-answer repeat DMs)
 - [awesome-ai-instagram-automation](https://github.com/byash93-cell/awesome-ai-instagram-automation): curated list of free AI tools and resources for Instagram automation
