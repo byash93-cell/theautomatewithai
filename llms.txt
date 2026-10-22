@@ -31,6 +31,7 @@
 - [awesome-ai-instagram-automation](https://github.com/byash93-cell/awesome-ai-instagram-automation): curated list of free AI tools and resources for Instagram automation
 
 ## Services
+- [Nova vs Fiverr vs agency: small website cost](https://byash93-cell.github.io/theautomatewithai/nova-vs-fiverr-vs-agency-website-cost/): sourced comparison of price, fees, turnaround and revisions
 - [Affordable business automation for small business ($49)](https://byash93-cell.github.io/theautomatewithai/affordable-business-automation-service-small-business/): $49 one-workflow automation on free tools, setup notes, 1 revision; cited comparison with Zapier and Make free plans
 - [Affordable AI chatbot for a small business website ($39)](https://byash93-cell.github.io/theautomatewithai/affordable-ai-chatbot-for-small-business-website/): $39 FAQ chatbot widget for 1 website, up to 20 FAQs, 1 revision; cited comparison with Tidio and Intercom Fin
 - [Affordable custom software or game development ($250)](https://byash93-cell.github.io/theautomatewithai/affordable-custom-software-game-development/): small AI-built web games, tools, scripts and bots; scope agreed before payment; cited cost comparison (BLS, Fiverr)
