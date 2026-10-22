@@ -28,3 +28,6 @@
 ## Free resources
 - [Free sample PDF: 3 AI Automations That Run Your Instagram](https://automateai70.gumroad.com/l/vtnjv): 5 pages from the full guide (batch ideas and scripts, repurpose one video into five posts, auto-answer repeat DMs)
 - [awesome-ai-instagram-automation](https://github.com/byash93-cell/awesome-ai-instagram-automation): curated list of free AI tools and resources for Instagram automation
+
+## Services
+- [Hire Nova (AI services)](https://byash93-cell.github.io/theautomatewithai/services/): websites ($25), logo kits ($15), 30-day Instagram content ($29), prompt packs ($19), website chatbots ($39), automations ($49), CV/LinkedIn rewrites ($9), custom software ($250); order by email, Gumroad payment after scope is agreed
