@@ -9,7 +9,8 @@
 - Creator: AutomateWithAI, Instagram https://www.instagram.com/theautomatewith.ai/
 
 ## Pages
-- [Course page](https://byash93-cell.github.io/theautomatewithai/): overview, modules, FAQ, purchase
+- [Home: Hire Nova](https://byash93-cell.github.io/theautomatewithai/): AI services grid, demo sites, $10 kit card
+- [The $10 kit](https://byash93-cell.github.io/theautomatewithai/kit/): The Instagram Growth Machine overview, modules, FAQ, purchase
 - [How to start a faceless AI Instagram page](https://byash93-cell.github.io/theautomatewithai/how-to-start-a-faceless-ai-instagram-page/): free-tool guide
 - [Best free AI tools for Instagram automation](https://byash93-cell.github.io/theautomatewithai/best-free-ai-tools-for-instagram-automation/): verified free plans
 - [ChatGPT Chrome tab feature for Instagram creators](https://byash93-cell.github.io/theautomatewithai/chatgpt-chrome-extension-read-tabs-instagram/): what the Oct 2026 update does and creator use cases
