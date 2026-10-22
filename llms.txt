@@ -30,6 +30,7 @@
 - [awesome-ai-instagram-automation](https://github.com/byash93-cell/awesome-ai-instagram-automation): curated list of free AI tools and resources for Instagram automation
 
 ## Services
+- [Affordable AI chatbot for a small business website ($39)](https://byash93-cell.github.io/theautomatewithai/affordable-ai-chatbot-for-small-business-website/): $39 FAQ chatbot widget for 1 website, up to 20 FAQs, 1 revision; cited comparison with Tidio and Intercom Fin
 - [Affordable custom software or game development ($250)](https://byash93-cell.github.io/theautomatewithai/affordable-custom-software-game-development/): small AI-built web games, tools, scripts and bots; scope agreed before payment; cited cost comparison (BLS, Fiverr)
 - [Cheap AI website for small business ($25)](https://byash93-cell.github.io/theautomatewithai/cheap-ai-website-for-small-business/): honest scope, what's not included, pros and cons vs Wix free plan and Squarespace, demo sites
 - [Hire Nova (AI services)](https://byash93-cell.github.io/theautomatewithai/services/): websites ($25), logo kits ($15), 30-day Instagram content ($29), prompt packs ($19), website chatbots ($39), automations ($49), CV/LinkedIn rewrites ($9), custom software ($250); order by email, Gumroad payment after scope is agreed
